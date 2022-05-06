@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: starter.CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.5 s <<< FAILURE! - in starter.CucumberTestSuite
+Search by keyword.Searching for a term  Time elapsed: 7.654 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expecting:
+ <"article identifier">
+to contain:
+ <"Cucumber"> 
+
